@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1407109755 source:/home/user/Documents/Project/main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+	"TreeClass.h"
+
+1407108978 source:/home/user/Documents/Project/TreeClass.cpp
+	<iostream>
+	"TreeClass.h"
+	<string>
+
+1407108383 /home/user/Documents/Project/TreeClass.h
+	<string>
+

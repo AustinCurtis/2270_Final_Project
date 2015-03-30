@@ -1,0 +1,20 @@
+Business;Google;567 Awesome Place
+;Restaurant;Cosmos Pizza;456 30th Street
+;Residential;Austin's House;3000 Colorado Ave.
+;Residential;Koen's House;642 42nd Street
+;Business;King Supers;300 Table Mesa
+;Restaurant;Half Fast Subs;125 Hill Road
+;Residential;Harrison's House;642 42nd Street
+;Business;RealD;500 Business loop
+;Business;Spectra Logic;6101 Lookout Road
+;Restaurant;Cheba Hut;001 Hill Road
+;Restaurant;Curry and Kebob;3445 29th Street
+;Residential;Phill's House;9874 Baseline Road
+;Residential;Moms House;4208 Da Vinci Drive
+;Residential;Dads House;6548 Redwood Circle
+;Business;Apple;1000 Infinity Loop
+;Business;Disney Land;123 Magic Ave.
+;Business;Disney World;456 Magic Circle
+;Restaurant;Illegal Pete's;002 Jill Road
+;Restaurant;Deli Zone;560 Valmont Road
+;Restaurant;Segate;5445 Nelson Road
